@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Qenta</string>
+    <string name="buscar">Palabra de busqueda</string>
+    <string name="todo">TODO</string>
+    <string name="autor">Autor: </string>
+    <string name="user">User</string>
+    <string name="comment">Comentarios:</string>
+    <string name="data_comment">2</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="informative">Informativo</string>
+    <string name="detail_diaolog">Detalle de Dialogo</string>
+    <string name="search">Buscar</string>
+    <string name="error_internet">Necesitas Internet para descargar las variables parametricas</string>
+    <string name="alert">Alert Internet</string>
+</resources>
