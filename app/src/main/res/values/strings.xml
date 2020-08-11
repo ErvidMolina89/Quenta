@@ -13,4 +13,7 @@
     <string name="search">Buscar</string>
     <string name="error_internet">Necesitas Internet para descargar las variables parametricas</string>
     <string name="alert">Alert Internet</string>
+    <string name="api_key">"?key=17769324-1932e567e2d5c7e391d180cfa"</string>
+    <string name="Internet">Internet</string>
+    <string name="detail_falla_Internet">No tienes acceso a Internet, verifica</string>
 </resources>
